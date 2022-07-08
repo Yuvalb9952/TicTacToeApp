@@ -70,7 +70,7 @@ class ViewController: UIViewController {
                 sender.setTitle(xTitle, for: .normal)
                 currentTurn = Turn.O
                 turnLabel.text = oTitle
-            } //just a comment
+            } 
         }
     }
     
